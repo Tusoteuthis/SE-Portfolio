@@ -6,7 +6,7 @@
 
 https://Tusoteuthis.github.io/SE-Portfolio/
 
-# My Blog
+# SE-Portfolio
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
