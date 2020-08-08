@@ -9,7 +9,7 @@ https://Tusoteuthis.github.io/SE-Portfolio/
 # SE-Portfolio
 
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+_Author: Matthias Sammer_
 
 
 ## What To Do Next?
